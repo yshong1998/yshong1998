@@ -6,8 +6,8 @@
 
 **사람이 손으로 하던 일을 코드로 옮기는 백엔드 개발자입니다.**
 
-* 📝 <a href="#">개발 블로그</a>
-* 📄 <a href="https://yshong1998.notion.site/3be1260b1cea8023b40cc13cb871bb5d?source=copy_link">이력서</a>
+* 📝 <a href="#" target="_blank" rel="noopener noreferrer">개발 블로그</a>
+* 📄 <a href="https://yshong1998.notion.site/3be1260b1cea8023b40cc13cb871bb5d?source=copy_link" target="_blank" rel="noopener noreferrer">이력서</a>
 * ✉️ yshong1998@gmail.com
 
 <br>
