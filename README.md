@@ -7,7 +7,7 @@
 **사람이 손으로 하던 일을 코드로 옮기는 백엔드 개발자입니다.**
 
 * 📝 <a href="#">개발 블로그</a>
-* 📄 <a href="#">이력서</a>
+* 📄 <a href="https://yshong1998.notion.site/3be1260b1cea8023b40cc13cb871bb5d?source=copy_link">이력서</a>
 * ✉️ yshong1998@gmail.com
 
 <br>
@@ -57,6 +57,3 @@ Java에서 TypeScript로 넘어와 보니 트랜잭션 경계나 실패 처리 �
 * 기술 스택: Spring Boot / Spring Security / MySQL / JPA / Thymeleaf / AWS
 
 <br>
-
-> 실무 코드는 회사 비공개 저장소에 있습니다.
-> 어떤 문제를 어떻게 풀었는지는 <a href="#">이력서</a>에 정리해 두었어요.
